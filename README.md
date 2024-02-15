@@ -1,6 +1,6 @@
 # 2-16-24
 
-Unzip the folder and in the folder there is a main.py file.
+In the repo there is a main.py file.
 
 In your terminal just navigate to the folder that holds the main.py file. Run python main.py to start the program.
 
